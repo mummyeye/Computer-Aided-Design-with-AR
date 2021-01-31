@@ -1,0 +1,17 @@
+To Do
+-------------------------------------------------------------
+[]-Sistema com builders secundários
+
+
+Features
+-------------------------------------------------------------
+[]-Simular fluído.
+[]-Extrair dados de itens.
+[]-Extrair model 3d.
+[]-Relatório com imagem e talz (pensar melhor)
+
+
+Done
+-------------------------------------------------------------
+11/08/2020 - [x]-Criar os Elbows tendo rotation como parâmetro
+11/08/2020 - [x]-Rotacionar os Elbows a cada 45º por click
